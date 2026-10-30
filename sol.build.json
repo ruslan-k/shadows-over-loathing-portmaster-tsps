@@ -1,0 +1,8 @@
+{
+ "config": {
+  "port": {"name": "sol", "title": "Shadows Over Loathing"},
+  "game": {"data": "Shadows Over Loathing_Data", "unity_versions": ["2020.3.33f1"]},
+  "convert": {"steps": ["shaders", "settings", "audio", "quality"], "settings": {"graphics_apis": [11]}},
+  "android_data": {"name": "ShadowsofLoathing", "package": "com.pmunity.sol", "streaming_assets": "both"}
+ }
+}
